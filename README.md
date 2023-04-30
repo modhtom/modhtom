@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mobina+Jafarian...;A+back-end+developer;Nice+to+meet+you!&center=true&size=30&color=fe428e">
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+There+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Mohamed+Abdalgader+;A+CS+student+%F0%9F%92%BB;Nice+to+see+you" alt="Typing SVG" /></a>
 </h1>
 
 # 💫 About Me:
