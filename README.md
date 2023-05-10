@@ -4,9 +4,9 @@
 
 # 💫 About Me:
 💡 I’m Mohamed Abdalgader, A CS student who is looking to grow as a Back-end Developer<br>
-<!-- 🔭 I’m currently working on https://github.com/<br> -->
-<!-- 🌱 I’m currently learning <br> -->
-<!-- 💬 Ask me about <br> -->
+🔭 I’m currently working on https://github.com/modhtom/Keyed-In-Peace<br>
+🌱 I’m currently learning DS using c++ <br>
+💬 Ask me about anything<br>
 📫 You can contact me at mohamed.h.abdalgader@gmail.com
 
 ## 🌐 Socials:
@@ -76,8 +76,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=modhtom&label=Profile%20views&color=fe428e&style=plastic" alt="modhtom" /></p>
