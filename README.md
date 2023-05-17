@@ -5,8 +5,8 @@
 # 💫 About Me:
 💡 I’m Mohamed Abdalgader, A CS student who is looking to grow as a Back-end Developer<br>
 🔭 I’m currently working on https://github.com/modhtom/Keyed-In-Peace<br>
-🌱 I’m currently learning DS using c++ <br>
-💬 Ask me about anything<br>
+<!--🌱 I’m currently learning <br>
+💬 Ask me about <br>-->
 📫 You can contact me at mohamed.h.abdalgader@gmail.com
 
 ## 🌐 Socials:
