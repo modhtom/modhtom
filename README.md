@@ -16,18 +16,6 @@
 🌱 I’m currently learning Node.js </br>
 📫 You can contact me at mohamed.h.abdalgader@gmail.com
 
-## 🌐 Socials:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamed-abdalgader-060954207" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-abdalgader" height="30" width="40" /></a>
-<a href="https://github.com/modhtom" target="blank">
-  <img align="center" src="https://img.icons8.com/color/2x/gitlab.png" alt="modhtom" height="30" width="40" /></a>
-<a href="mailto:mohamed.h.abdalgader@gmail.com" target="blank">
-  <img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="modhtom" height="30" width="40" /></a>
-<a href="https://twitter.com/_modhtom_" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="modhtom" height="30" width="40" /></a> 
-</p>
 
 <details>
 <summary>
@@ -42,7 +30,7 @@
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 <code><a href="https://www.json.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></a></code>
 <code><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code>
-  
+<code><a href="https://www.w3schools.com/c++/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++.svg"></a></code>
 </details>
 </br>
 
