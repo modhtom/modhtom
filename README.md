@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <em>
-    This is me <b>Mohamed Abdalgader</b>, a <b>Computer Science</b> undergraduate from <a href="https://www.asu.edu.eg/"> <b>Faculty of Computer and Information Sciences - Ain Shams University</b>, Egypt</a>.
+    This is me <b>Mohamed Abdalgader</b>, a <b>Computer Science</b> undergraduate
     An aspiring <b>Backend Software Developer.</b> 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
