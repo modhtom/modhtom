@@ -4,7 +4,7 @@
 <p align="center">
   <em>
     This is me <b>Mohamed Abdalgader</b>, a <b>Computer Science</b> undergraduate
-    An aspiring <b>Backend Software Developer.</b> 
+    A <b>Backend Software Developer.</b> 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
