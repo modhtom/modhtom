@@ -30,9 +30,9 @@ const ME = {
 ```python
 class TechStack:
     languages = ["Java", "C#", "JavaScript", "TypeScript", "C++", "Python", "Go"]
-    frameworks = ["Spring Boot", "ASP.NET Core MVC", "Node.js", "Express.js", "Flask"]  # + Imposter Syndrome
-    databases = ["MySQL", "PostgreSQL", "MongoDB", "SQL Server", "Oracle", "SQLite"]
-    tools = ["AWS", "Docker", "Git", "GitHub Actions", "Jira", "Figma"]
+    frameworks = ["Spring Boot", "JavaFX", "React", "Flask", "JWT", "RESTFUL API", "LINQ", "ASP.NET Core MVC", "Node.js", "Express.js", "Flask"]  # + Imposter Syndrome
+    databases = ["MySQL", "PostgreSQL", "Redis", "MongoDB", "SQL Server", "Oracle", "SQLite"]
+    tools = ["xUnit", "JUnit", "Mockito", "Testcontainers", "AWS", "Docker", "Git", "GitHub Actions", "Jira", "Figma"]
     status = "Learning something new every day"
 ```
 
