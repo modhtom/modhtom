@@ -29,11 +29,39 @@ const ME = {
 
 ```python
 class TechStack:
-    languages = ["Java", "C#", "JavaScript", "TypeScript", "C++", "Python", "Go"]
-    frameworks = ["Spring Boot", "JavaFX", "React", "Flask", "JWT", "RESTFUL API", "LINQ", "ASP.NET Core MVC", "Node.js", "Express.js", "Flask"]  # + Imposter Syndrome
-    databases = ["MySQL", "PostgreSQL", "Redis", "MongoDB", "SQL Server", "Oracle", "SQLite"]
-    tools = ["xUnit", "JUnit", "Mockito", "Testcontainers", "AWS", "Docker", "Git", "GitHub Actions", "Jira", "Figma"]
+    languages = [
+        "Java", "C#", "JavaScript", "TypeScript",
+        "Python", "C++", "Go"
+    ]
+
+    backend_frameworks = [
+        "Spring Boot", "ASP.NET Core MVC",
+        "Node.js (Express)", "Flask"
+    ] # + Imposter Syndrome
+
+    databases = [
+        "PostgreSQL", "MySQL", "SQL Server",
+        "MongoDB", "Redis", "SQLite", "Oracle"
+    ]
+
+    devops_tools = [
+        "Docker", "Docker Compose",
+        "Git", "GitHub Actions",
+        "CI/CD", "Jira"
+    ]
+
+    testing_security = [
+        "JUnit", "Mockito", "XUnit",
+        "Testcontainers", "OAuth2",
+        "JWT", "OWASP Awareness"
+    ]
+
+    frontend = [
+        "React", "Vite", "JavaFX"
+    ]
+
     status = "Learning something new every day"
+
 ```
 
 ## Connect With Me
