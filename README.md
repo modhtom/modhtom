@@ -35,8 +35,8 @@ class TechStack:
     ]
 
     backend_frameworks = [
-        "Spring Boot", "ASP.NET Core MVC",
-        "Node.js (Express)", "Flask"
+        "Spring Boot", "Spring Cloud (Eureka, Gateway, OpenFeign)",
+        "ASP.NET Core MVC", "Node.js (Express)", "Flask"
     ] # + Imposter Syndrome
 
     databases = [
